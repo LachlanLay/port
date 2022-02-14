@@ -49,6 +49,17 @@
   
 
   
+      ,"page2": {
+          "title": "Contact",
+          "content": "This is how and where you can contact me. .",
+          "url": "https://lachlanlay.github.io/port/contact/",
+          "relUrl": "/contact/",
+          "date": ""
+      }
+      
+  
+
+  
 
   
   
@@ -66,7 +77,7 @@
   
 
   
-      ,"page8": {
+      ,"page9": {
           "title": "",
           "content": "Sitemap: {{ “sitemap.xml” | absolute_url }} | .",
           "url": "https://lachlanlay.github.io/port/robots.txt",
