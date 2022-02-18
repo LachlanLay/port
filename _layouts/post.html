@@ -46,6 +46,7 @@ layout: default
       {% if page.badges or page.badges == nil %}
         <div class="pb-5 d-flex flex-justify-center">
           {% unless page.hide_github_badge or site.default_badges.github != true %}{% include notebook_github_link.html %}{% endunless %}
+          {% unless page.hide_linkedin_badge or site.default_badges.linkedin != true %}{% include notebook_linkedin_link.html %}{% endunless %}
         </div>
       {% endif -%}
     {% endif -%}
