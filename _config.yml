@@ -40,7 +40,6 @@ baseurl: "/port" # the subpath of your site, e.g. "/blog".
 minima:
   social_links:
     github: LachlanLay
-    linkedin_username: lachlan-lay-682aa3157
     
 # Set this to true to get LaTeX math equation support
 use_math: 
@@ -72,7 +71,6 @@ include:
 # This specifies what badges are turned on by default for notebook posts.
 default_badges:
   github: true
-  linkedin_username: true
   binder: false
   colab: false
   deepnote: false
