@@ -39,17 +39,6 @@
 
   
       ,"page1": {
-          "title": "About Me",
-          "content": "This is sample text. I am blah blah .",
-          "url": "https://lachlanlay.github.io//port/port/",
-          "relUrl": "/port/",
-          "date": ""
-      }
-      
-  
-
-  
-      ,"page2": {
           "title": "Contact",
           "content": "This is how and where you can contact me. .",
           "url": "https://lachlanlay.github.io//port/contact/",
@@ -77,7 +66,7 @@
   
 
   
-      ,"page9": {
+      ,"page8": {
           "title": "",
           "content": "Sitemap: {{ “sitemap.xml” | absolute_url }} | .",
           "url": "https://lachlanlay.github.io//port/robots.txt",
