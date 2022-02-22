@@ -108,7 +108,7 @@ nav { display: none; }
         display: grid;
         width: min-content;
         margin: 0;
-        grid-column-gap: 1m;
+        grid-column-gap: 1em;
         grid-template-areas: 
         "img title"
         "img subtitle"; 
