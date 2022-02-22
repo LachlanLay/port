@@ -151,11 +151,12 @@ nav { display: none; }
 /* footer */
 
 .footer a {
-    color: inherit;
+    color: var(--clr-accent);
     text-decoration: none;
 }
 
 .footer__link {
+    color: var(--clr-accent);
     font-size: var(--fs-h3);
     font-weight: var(--fw-bold);
 }
